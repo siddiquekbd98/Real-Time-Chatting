@@ -1,0 +1,23 @@
+{
+  "name": "chat-example",
+  "version": "1.0.0",
+  "description": "chatExample",
+  "main": "yes",
+  "scripts": {
+    "test": "ok"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "always"
+  ],
+  "author": "Nodi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "formidable": "^1.2.2",
+    "socket.io": "^2.3.0"
+  }
+}
